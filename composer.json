@@ -1,0 +1,15 @@
+{
+    "name": "mailjet/mailjet-apiv3-php-simple",
+    "description": "Simple PHP wrapper for the Mailjet v3 API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronan Guilloux",
+            "email": "ronan.guilloux@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Mailjet": "src/"}
+    },
+    "require": {}
+}
