@@ -1,5 +1,7 @@
 # [API v3] Mailjet PHP Wrapper
 
+# [SEVERE WARNING] WIP: REVAMPING NOT ACHEVIED #notstable #notuptodate #donotuse
+
 ## Introduction
 
 Provides a simple PHP library for the last version of the [MailJet API](http://dev.mailjet.com).
